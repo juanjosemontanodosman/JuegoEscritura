@@ -1,2 +1,2 @@
 # JuegoEscritura
-Proyecto para a clase de Programación Orientada a Eventos
+Proyecto para la clase de Programación Orientada a Eventos
