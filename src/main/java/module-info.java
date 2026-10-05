@@ -1,8 +1,8 @@
-module com.example.escriturarapida {
+module com.example.fastwritinggame {
     requires javafx.controls;
     requires javafx.fxml;
 
 
-    opens com.example.escriturarapida to javafx.fxml;
-    exports com.example.escriturarapida;
+    opens com.example.fastwritinggame to javafx.fxml;
+    exports com.example.fastwritinggame;
 }
