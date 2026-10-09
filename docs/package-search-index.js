@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.fastwriting"},{"l":"com.example.fastwriting.controller"},{"l":"com.example.fastwriting.model"},{"l":"com.example.fastwriting.view"}];updateSearchResults();
