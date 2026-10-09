@@ -1,13 +1,13 @@
 /**
  * Module of the "Escritura Rapida" (Fast Writing) game.
  */
-module com.example.fastwritinggame {
+module com.example.fastwriting {
     requires javafx.controls;
     requires javafx.fxml;
 
-    opens com.example.fastwritinggame.controller to javafx.fxml;
-    exports com.example.fastwritinggame;
-    exports com.example.fastwritinggame.controller;
-    exports com.example.fastwritinggame.model;
-    exports com.example.fastwritinggame.view;
+    opens com.example.fastwriting.controller to javafx.fxml;
+    exports com.example.fastwriting;
+    exports com.example.fastwriting.controller;
+    exports com.example.fastwriting.model;
+    exports com.example.fastwriting.view;
 }
