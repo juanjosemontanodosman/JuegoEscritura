@@ -1,7 +1,7 @@
 package com.example.fastwritinggame.model;
 
 /**
- * Listener of the events produced by the timer.
+ * Listener of the events produced by {@link GameTimer}.
  * <p>
  * Any class that wants to react to the timer must implement this interface,
  * or extend {@link TimerAdapter} to override only the methods it needs.
