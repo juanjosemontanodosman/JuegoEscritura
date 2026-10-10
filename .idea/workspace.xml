@@ -15,6 +15,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="module-info" />
       </list>
     </option>
   </component>
@@ -54,6 +55,7 @@
     "Application.Main.executor": "Run",
     "Application.com.example.fastwriting.Main.executor": "Run",
     "Application.fastwritinggame.executor": "Run",
+    "JUnit.GameTest.executor": "Run",
     "Maven.fast-writing-game.executor": "Debug",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -70,7 +72,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.com.example.fastwriting.Main">
+  <component name="RunManager" selected="JUnit.GameTest">
     <configuration default="true" type="Application" factoryName="Application">
       <module name="fast-writing-game" />
       <method v="2">
@@ -101,6 +103,21 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="fast-writing-game" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.fastwriting.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.fastwriting.model" />
+      <option name="MAIN_CLASS_NAME" value="com.example.fastwriting.model.GameTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -175,8 +192,14 @@
     <list>
       <item itemvalue="Application.fastwritinggame" />
       <item itemvalue="Application.com.example.fastwriting.Main" />
+      <item itemvalue="JUnit.GameTest" />
       <item itemvalue="Maven.fast-writing-game" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GameTest" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
