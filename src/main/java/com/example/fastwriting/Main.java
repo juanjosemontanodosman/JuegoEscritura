@@ -9,9 +9,9 @@ import java.io.IOException;
 /**
  * Entry point of the "Escritura Rapida" (Fast Writing) game.
  *
- * @author Integrante 1
- * @author Integrante 2
- * @author Integrante 3
+ * @author Juan José Montaño Dosman
+ * @author Anthony Alejandro Mora
+ * @author Roiban Alirio Rosales Bastidas
  * @version 1.0
  */
 public class Main extends Application {

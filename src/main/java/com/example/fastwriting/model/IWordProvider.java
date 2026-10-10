@@ -8,9 +8,9 @@ package com.example.fastwriting.model;
  * could be used without changing the game logic.
  * </p>
  *
- * @author Integrante 1
- * @author Integrante 2
- * @author Integrante 3
+ * @author Juan José Montaño Dosman
+ * @author Anthony Alejandro Mora
+ * @author Roiban Alirio Rosales Bastidas
  * @version 1.0
  */
 public interface IWordProvider {

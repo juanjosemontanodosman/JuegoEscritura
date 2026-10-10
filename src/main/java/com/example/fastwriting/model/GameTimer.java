@@ -10,9 +10,9 @@ import javafx.util.Duration;
  * runs on the JavaFX Application Thread, so the listener can update the
  * user interface safely.
  *
- * @author Integrante 1
- * @author Integrante 2
- * @author Integrante 3
+ * @author Juan José Montaño Dosman
+ * @author Anthony Alejandro Mora
+ * @author Roiban Alirio Rosales Bastidas
  * @version 1.0
  */
 public class GameTimer {

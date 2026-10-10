@@ -8,9 +8,9 @@ package com.example.fastwriting.model;
  * interested in (the same idea as {@code MouseAdapter} in Java).
  * </p>
  *
- * @author Integrante 1
- * @author Integrante 2
- * @author Integrante 3
+ * @author Juan José Montaño Dosman
+ * @author Anthony Alejandro Mora
+ * @author Roiban Alirio Rosales Bastidas
  * @version 1.0
  */
 public abstract class TimerAdapter implements ITimerListener {

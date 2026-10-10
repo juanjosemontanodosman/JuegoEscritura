@@ -32,9 +32,9 @@ import javafx.util.Duration;
  *     extends the adapter {@link TimerAdapter}.</li>
  * </ul>
  *
- * @author Integrante 1
- * @author Integrante 2
- * @author Integrante 3
+ * @author Juan José Montaño Dosman
+ * @author Anthony Alejandro Mora
+ * @author Roiban Alirio Rosales Bastidas
  * @version 1.0
  */
 public class GameController {
