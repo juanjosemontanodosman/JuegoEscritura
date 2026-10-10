@@ -9,9 +9,9 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * Unit tests of the game rules ({@link Game}).
  *
- * @author Integrante 1
- * @author Integrante 2
- * @author Integrante 3
+ * @author Juan José Montaño Dosman
+ * @author Anthony Alejandro Mora
+ * @author Roiban Alirio Rosales Bastidas
  * @version 1.0
  */
 class GameTest {

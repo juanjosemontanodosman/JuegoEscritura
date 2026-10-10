@@ -11,9 +11,9 @@ import java.io.IOException;
  * Window (stage) of the game. It loads the {@code game-view.fxml} file,
  * creates the scene and shows it.
  *
- * @author Integrante 1
- * @author Integrante 2
- * @author Integrante 3
+ * @author Juan José Montaño Dosman
+ * @author Anthony Alejandro Mora
+ * @author Roiban Alirio Rosales Bastidas
  * @version 1.0
  */
 public class GameStage extends Stage {
